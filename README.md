@@ -12,5 +12,5 @@
 5. One website I found useful is [Python Library](https://docs.python.org/3/library/index.html).
 6. To better learn Python, I need to 
    - [x] Learn basic grammars
-   - [ ] Practice Practice Practice
+   - [ ] Practice \*\*Practice\*\* Practice
 7. Just a relative link to [some other file](./RELINK.md)
