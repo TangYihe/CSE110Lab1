@@ -14,3 +14,5 @@
    - [x] Learn basic grammars
    - [ ] Practice \*\*Practice\*\* Practice
 7. Just a relative link to [some other file](./RELINK.md)
+8. My favorite meme from the first lecture is
+![challenge-accepted meme](/challenge-accepted.png "title")
