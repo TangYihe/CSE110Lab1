@@ -13,4 +13,4 @@
 6. To better learn Python, I need to 
    - [x] Learn basic grammars
    - [ ] Practice Practice Practice
-7. Just a relative link to [some other file](CSE110Lab1/RELINK.md)
+7. Just a relative link to [some other file](./RELINK.md)
